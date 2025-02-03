@@ -1,0 +1,1 @@
+{"name":"Local: eular","url":"e:\\CSE 2.2\\numerical_methods\\lab_all_codes\\eular.cpp","tests":[{"id":1738608893980,"input":"0 1 0.025 0.1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\CSE 2.2\\numerical_methods\\lab_all_codes\\eular.cpp","group":"local","local":true}
